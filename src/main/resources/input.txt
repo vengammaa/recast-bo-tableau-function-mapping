@@ -1,0 +1,1 @@
+Upper(Substr([Lines];1;6))
