@@ -3,4 +3,4 @@ services:
    recast-bo-tableau-function-mapping:
     image: recast-bo-tableau-function-mapping
     ports:
-      - "8761:8761"
+      - "8084:8084"
