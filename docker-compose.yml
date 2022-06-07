@@ -1,0 +1,6 @@
+version: "3" 
+services:
+   recast-bo-tableau-function-mapping:
+    image: recast-bo-tableau-function-mapping
+    ports:
+      - "8761:8761"
